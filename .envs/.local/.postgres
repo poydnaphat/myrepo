@@ -1,0 +1,5 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_DB=myproject
+POSTGRES_USER=debug
+POSTGRES_PASSWORD=debug
